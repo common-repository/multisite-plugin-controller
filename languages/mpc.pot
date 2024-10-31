@@ -1,0 +1,46 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Multisite Plugin Controller\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-03 20:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Barbara Bothe <info@barbara-bothe.de>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Domain: mpc"
+
+#: multisite-plugin-controller.php:112
+#, php-format
+msgid ""
+"<b>Deactivation Failed</b>: The plugin \"%s\" is activated on this website. "
+"Please deactivate it on the website before disabling it here."
+msgstr ""
+
+#. Author of the plugin
+msgid "Barbara Bothe"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Enable plugins for selected blogs only on Multisite websites (similar to "
+"theme functionality)"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://barbara-bothe.de"
+msgstr ""
+
+#. Name of the plugin
+msgid "Multisite Plugin Controller"
+msgstr ""
+
+#: multisite-plugin-controller.php:180
+msgid "Network enabled plugins are not shown on this screen."
+msgstr ""
